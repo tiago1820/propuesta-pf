@@ -56,14 +56,14 @@ git checkout main
 9. **Elimine la rama nueva para evitar problemas:**
 ```bash
 git branch -d nombre-de-la-rama
-Solo debe permanecer la rama main.
 ```
+- Solo debe permanecer la rama main.
 
 - Para contribuir otra vez, siga todos los pasos anteriores.
 
 ## Comandos utiles:
 
-- En que rama estoy?**
+- En que rama estoy?
 ```bash
 git branch
 ```
