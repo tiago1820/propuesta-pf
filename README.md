@@ -6,8 +6,12 @@
 </p>
 <br>
 
+## Links importantes
+[Jira](https://pablo-besler.atlassian.net/jira/core/projects/PFH/list?filter=updatedDate%20%3E%3D%20-1w&hideDone=false)
 
-# Como contribuir con el proyecto:
+
+
+## Como contribuir con el proyecto:
 1. **Actualiza tu fork en tu repositorio GitHub. (hay un boton para eso en tu repo en GitHub)**
 
 2. **Actualiza tu rama main en tu maquina:**
