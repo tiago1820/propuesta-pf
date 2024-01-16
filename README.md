@@ -29,6 +29,9 @@ git checkout -b nombre-de-la-rama
 ```bash
 git branch
 ```
+- Tambien es recomendable configurar el PROMPT de la consola para ver en que rama estamos: 
+![prompt-terminal](./image/prompt.png)
+
 
 - Para saltar de una rama a otra:
 ```bash
